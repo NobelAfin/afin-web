@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker' );
+
+body{
+	background-image: url("../img/darkdot.png"); 
+}
+
+
+.imgbrand{
+
+	height: 4rem;
+	width: 4rem;
+	margin-top: 0rem;
+	margin-left: 0.3%;
+}
+
+.fondo2{
+	background-image: url("../img/restaurant.png");
+	padding: 18%;
+}
+
+.div1{
+	text-align: center;
+}
+
+nav{
+	padding: 0;
+	margin-bottom:0 !important;
+}
+
+h1{
+	color: white;
+}
+
+.h1{
+   font-family: 'Permanent Marker', cursive;
+}
+
+.button{
+	background-color: white;
+	border: 1px solid black;
+}
+
+.row{
+	margin:0;
+	padding:0;
+}
+
+h2{
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Permanent Marker', cursive;
+}
+
+.margen{
+     margin: 8rem 0;
+}
+
+
+.formulario label{
+	display: block;
+	border: none;
+	padding: 5px;
+}
+
+.formulario label input{
+	display: block;
+	width: 80%
+}
+
+.formulario input{
+	background-color: skyblue;	
+}
+
+.form2 label input{
+display: inline-block;
+}
+
+textarea{
+	width: 60%;
+	resize: none;
+}
+
+.button2 {
+	display: block;
+	width: 60%;
+	margin: 3px 0;
+}
+
+footer{
+	margin: 4rem 0;
+}
+
+.imgfooter{
+	width: 8rem;
+	height: 8rem;
+
+}
+
+::-webkit-input-placeholder { color: white; } /* WebKit */
+:-moz-placeholder { color: white; } /* Firefox 18- */
+::-moz-placeholder { color: white; } /* Firefox 19+ */
+:-ms-input-placeholder { color: white; } /* IE 10+ */
